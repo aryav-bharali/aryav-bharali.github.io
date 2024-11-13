@@ -1,2 +1,5 @@
 url: "https://aryav-bharali.github.io"
 baseurl: ""
+
+sass:
+  style: compressed
